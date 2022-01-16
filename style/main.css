@@ -22,6 +22,7 @@ header .container{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    
 }
 
 header .logo{
@@ -29,6 +30,7 @@ header .logo{
     color: var(--vermelho);
     font-family: 'Arial Black', Times;
     font-size: 40px;
+    cursor: pointer;
 }
 
 header nav a{
@@ -46,7 +48,7 @@ header nav a:hover{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/Capa_TheWitcher.jpg');
 
-    height: 400px;
+    min-height: 600px;
     background-size:cover; /*especifica o tamanho da imagem em backgound*/
 
     display: flex;
@@ -61,7 +63,7 @@ header nav a:hover{
 }
 
 .filme-principal .titulo{
-    margin-top: 15%;
+   /* margin-top: 15%;*/
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
@@ -98,7 +100,9 @@ header nav a:hover{
 
 /*Configurando imagens box*/
 .box-filme{
-    height: 100%;
-    width: 100%;
-    display: block;
+    height: 75%;
+    width: 75%;
+    display: block;    
+    cursor: pointer;
 }
+

@@ -8,10 +8,22 @@
         margin-top: 5px;
         width: 300px;
     }
+
 }
 
 @media screen and (min-width:1000px){
     .descricao{
     width: 50%;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    .filme-principal{
+    height: 800px;
+    }
+
+    .box-filme{
+        height: 60%;
+        width: 80%;
     }
 }
