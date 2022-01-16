@@ -6,7 +6,9 @@ Desafio recriando o Front-end do Netflix. / Clallenge recreating the Netflix Fro
 
 ###### BootCamp: Inter Frontend Developer
 
-Digital Innovation One <https://digitalinnovation.one>
+Digital Innovation One
+
+ <https://digitalinnovation.one>
 
 
 
