@@ -6,7 +6,7 @@ Desafio recriando o Front-end do Netflix. / Clallenge recreating the Netflix Fro
 
 ###### BootCamp: Inter Frontend Developer
 
-[Digital Inovation One]: https://digitalinnovation.one
+[Digital Inovation One]:(https://digitalinnovation.one)	""Digital Inovation One""
 
 
 
@@ -28,5 +28,5 @@ Recreate the interface of the world's leading streaming site using simple techno
 
 
 
-
+![Clone-Netflix](https://github.com/viniciuskurt/FrontEnd-Netflix/blob/main/img/NETFLIX-CLONE.gif)
 
